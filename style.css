@@ -1,0 +1,63 @@
+h1 {
+	text-align: center;
+	text-shadow: 0 0 10px yellow;
+	margin-top:120px ;
+}
+
+img {
+	width: 200px;
+	height: 280px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+
+h2 {
+	color: red;
+	text-shadow: 0 0 10px black;
+}
+
+body {
+	background: yellow;
+	text-align: center;
+}
+div {
+	border: black 2px solid;
+	display: inline-block;
+	text-align: center;
+	background:orangered ;
+	padding: 20px;
+	margin-top:20px ;
+	border-radius: 20px;
+}
+
+a {
+	color: black;
+	text-shadow: 0 0 10px blue;
+	border: 2px black solid;
+	padding: 5px;
+	background: white;
+	border-radius: 20px;
+	text-decoration: none;
+}
+
+.Transformers {
+color: black;
+}
+.Garry {
+	color: lightgoldenrodyellow;
+}
+.Taim {
+	color: limegreen;
+}
+.Kokakola {
+	 background: #1a26000c;
+}
+.Tomat {
+	background:#5c460f;
+}
+.b {
+	background: lightcoral;
+}
+.c {
+	background: lightcyan;
+}
